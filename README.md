@@ -1,4 +1,4 @@
-Análisis de Experimento A/A/B para una Aplicación de Ventas
+# Análisis de Experimento A/A/B para una Aplicación de Ventas
 Descripción del proyecto
 
 Este proyecto analiza el comportamiento de los usuarios dentro de una aplicación móvil de venta de productos alimenticios. El objetivo principal fue evaluar si un cambio en el diseño de la interfaz tenía un impacto significativo en la conversión de los usuarios mediante un experimento A/A/B.
